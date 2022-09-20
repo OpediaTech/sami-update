@@ -1,0 +1,13 @@
+1. If change any live site then change backend checkour redirectedURL 
+2. Add search functionality
+3.  
+
+okay
+*** isse 
+all-products-feeds e issue ache data khuje paache nah, resolve kora lagbe. 
+
+
+eita final page from 8/23/2022
+
+
+1. Header: Header hoche header-menu component
